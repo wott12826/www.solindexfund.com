@@ -1,0 +1,132 @@
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\widgets.js
+Content Type: application/javascript
+
+Uri: https://www.solindexfund.com/
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\index.htm
+Content Type: text/html
+
+Uri: https://www.solindexfund.com/amazon-white.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\amazon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/amazon.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\amazon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/apple-white.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\apple-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/apple.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\apple.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.solindexfund.com/google.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\google.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/microsoft.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\microsoft.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/nvidia.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\nvidia.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/SolDex.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\SolDex.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/tesla.svg
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\tesla.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solindexfund.com/_next/image?url=%2FSIF.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\SIF-1.png
+Content Type: image/png
+
+Uri: https://www.solindexfund.com/_next/image?url=%2FSIF.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\SIF-2.png
+Content Type: image/png
+
+Uri: https://www.solindexfund.com/_next/image?url=%2FSIF.png&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\SIF-3.png
+Content Type: image/png
+
+Uri: https://www.solindexfund.com/_next/image?url=%2FSIF.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\SIF.png
+Content Type: image/png
+
+Uri: https://www.solindexfund.com/_next/image?url=%2FSPYx.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\SPYx-1.png
+Content Type: image/png
+
+Uri: https://www.solindexfund.com/_next/image?url=%2FSPYx.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\SPYx.png
+Content Type: image/png
+
+Uri: https://www.solindexfund.com/_next/static/chunks/4bd1b696-fc09fd79feedbf53.js?dpl=dpl_GxXzqtrsRVPMmJSfy9fU57YQbLbw
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\chunks\4bd1b696-fc09fd79feedbf53.js
+Content Type: application/javascript
+
+Uri: https://www.solindexfund.com/_next/static/chunks/684-0f5dc29edd9cb084.js?dpl=dpl_GxXzqtrsRVPMmJSfy9fU57YQbLbw
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\chunks\684-0f5dc29edd9cb084.js
+Content Type: application/javascript
+
+Uri: https://www.solindexfund.com/_next/static/chunks/734-4b8e84ff3a639ea3.js?dpl=dpl_GxXzqtrsRVPMmJSfy9fU57YQbLbw
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\chunks\734-4b8e84ff3a639ea3.js
+Content Type: application/javascript
+
+Uri: https://www.solindexfund.com/_next/static/chunks/app/page-9f14bec5b9c10575.js?dpl=dpl_GxXzqtrsRVPMmJSfy9fU57YQbLbw
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\chunks\app\page-9f14bec5b9c10575.js
+Content Type: application/javascript
+
+Uri: https://www.solindexfund.com/_next/static/chunks/main-app-d9794b1200c643e4.js?dpl=dpl_GxXzqtrsRVPMmJSfy9fU57YQbLbw
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\chunks\main-app-d9794b1200c643e4.js
+Content Type: application/javascript
+
+Uri: https://www.solindexfund.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_GxXzqtrsRVPMmJSfy9fU57YQbLbw
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.solindexfund.com/_next/static/chunks/webpack-8fc39b2d2d9b0b9d.js?dpl=dpl_GxXzqtrsRVPMmJSfy9fU57YQbLbw
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\chunks\webpack-8fc39b2d2d9b0b9d.js
+Content Type: application/javascript
+
+Uri: https://www.solindexfund.com/_next/static/css/174dffb25ad2689a.css?dpl=dpl_GxXzqtrsRVPMmJSfy9fU57YQbLbw
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\css\174dffb25ad2689a.css
+Content Type: text/css
+
+Uri: https://www.solindexfund.com/_next/static/media/26a46d62cd723877-s.woff2
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\media\26a46d62cd723877-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.solindexfund.com/_next/static/media/55c55f0601d81cf3-s.woff2
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\media\55c55f0601d81cf3-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.solindexfund.com/_next/static/media/581909926a08bbc8-s.woff2
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\media\581909926a08bbc8-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.solindexfund.com/_next/static/media/8e9860b6e62d6359-s.woff2
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\media\8e9860b6e62d6359-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.solindexfund.com/_next/static/media/97e0cb1ae144a2a9-s.woff2
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\media\97e0cb1ae144a2a9-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.solindexfund.com/_next/static/media/df0a9ae256c0569c-s.woff2
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\media\df0a9ae256c0569c-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.solindexfund.com/_next/static/media/e4af272ccee01ff0-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.solindexfund.com\_next\static\media\e4af272ccee01ff0-s.p.woff2
+Content Type: font/woff2
+
